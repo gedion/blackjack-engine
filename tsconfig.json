@@ -3,7 +3,7 @@
     "outDir": "./build/",
     "noImplicitAny": false,
     "target": "es6",
-    "strict": true,
+    "strict": false,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
